@@ -47,21 +47,21 @@ If the report uses external data:
 Click `Home → Refresh` to load the latest data into the report.
 
 ## Usage Examples
-The Sales 2022 Dashboard provides an interactive overview of company sales performance across regions, products, and customers. Built in Power BI, this dashboard enables business managers, stakeholders, and sales teams to easily monitor key performance indicators and uncover actionable insights.
+The Sales 2022 Dashboard provides an interactive overview of company sales performance across regions, products, and customers. Built in Power BI, this dashboard enables business managers, stakeholders, and sales teams to monitor key performance indicators and uncover actionable insights easily.
 
-Key Features
+**Key Features**
 
-Regional Sales Analysis: Visualizes total revenue by state and region, helping identify top-performing areas and growth opportunities.
+• Regional Sales Analysis: Visualizes total revenue by state and region, enabling identification of top-performing areas and growth opportunities.
 
-Product Performance: Highlights best-selling products and categories, allowing for quick evaluation of product mix efficiency.
+• Product Performance: Highlights best-selling products and categories, allowing for quick evaluation of product mix efficiency.
 
-Profit Trends: Tracks profit margins and growth trends over time, categorized by year and month.
+• Profit Trends: Tracks profit margins and growth trends over time, categorized by year and month.
 
-Customer Insights: Displays customer purchasing patterns and identifies high-value customers driving the majority of sales.
+• Customer Insights: Displays customer purchasing patterns and identifies high-value customers driving the majority of sales.
 
-Time-Based Exploration: Users can filter by year and month to analyze performance dynamics over specific periods.
+• Time-Based Exploration: Users can filter by year and month to analyze performance dynamics over specific periods.
 
-Main Insights
+**Main Insights**
 
 Revenue distribution across regions and states
 
@@ -71,11 +71,11 @@ Top-performing products and categories
 
 Key customers contributing the highest revenue
 
-Purpose
+**Purpose
+**
+This dashboard supports data-driven decision-making by providing a clear, visual summary of sales performance. It helps teams identify where to focus sales strategies, strengthen customer relationships, and optimize product portfolios.
 
-This dashboard supports data-driven decision making by providing a clear, visual summary of sales performance. It helps teams identify where to focus sales strategies, strengthen customer relationships, and optimize product portfolios.
-
-Tools Used
+**Tools Used**
 
 Power BI for dashboard creation and interactive visualizations
 
