@@ -63,16 +63,15 @@ The Sales 2022 Dashboard provides an interactive overview of company sales perfo
 
 **Main Insights**
 
-Revenue distribution across regions and states
+• Revenue distribution across regions and states
 
-Monthly and yearly growth trends
+• Monthly and yearly growth trends
 
-Top-performing products and categories
+• Top-performing products and categories
 
-Key customers contributing the highest revenue
+• Key customers contributing the highest revenue
 
-**Purpose
-**
+**Purpose**
 This dashboard supports data-driven decision-making by providing a clear, visual summary of sales performance. It helps teams identify where to focus sales strategies, strengthen customer relationships, and optimize product portfolios.
 
 **Tools Used**
